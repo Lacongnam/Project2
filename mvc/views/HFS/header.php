@@ -31,7 +31,7 @@ if (!isset($_SESSION['login'])) {
 
 <body>
   <div id="header">
-    <img class="ha" src="/Project3/public/image/hinhlogo/logo_store.png" alt="">
+    <img class="ha" src="/Project3/public/image/hinhlogo/logo1.png" alt="">
 
     <!-- A grey horizontal navbar that becomes vertical on small screens -->
     <nav class="navbar navbar-expand-md nv">

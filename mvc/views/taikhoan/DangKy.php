@@ -27,7 +27,7 @@
 
 <body>
     <div id="header">
-        <?php include "./mvc/views/HG/header.php"; ?>
+        <?php include "./mvc/views/HFS/header.php"; ?>
     </div>
 
     <div class="container-fluid">
@@ -76,7 +76,7 @@
         </div>
     </div>
     <div id="footer">
-        <?php include "./mvc/views/HG/footer.php"; ?>
+        <?php include "./mvc/views/HFS/footer.php"; ?>
     </div>
 </body>
 
