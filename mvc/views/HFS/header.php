@@ -26,12 +26,14 @@ if (!isset($_SESSION['login'])) {
   <link rel="stylesheet" href="/Project3 /public/css/logo.css">
   <link rel="stylesheet" href="/Project3 /public/css/style.css">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>  
+  <style>
 
+  </style>
 </head>
 
 <body>
   <div id="header">
-    <img class="ha" src="/Project3/public/image/hinhlogo/logo1.png" alt="">
+    <img class="ha" src="\Project3\public\image\hinhlogo\logone.jpg" alt="">
 
     <!-- A grey horizontal navbar that becomes vertical on small screens -->
     <nav class="navbar navbar-expand-md nv">
